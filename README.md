@@ -6,4 +6,4 @@
 - 💬 Ask me about: All things Statistics, Data analytics, Data Science, and Machine Learning
 - 📫 How to reach me: https://www.linkedin.com/in/timothy-akintayo/
 - 😄 Pronouns: (HE/HIM/HIS)
-- ⚡ Fun fact: Community development, compassion, passion, gratitude and deep listening are five of my life's mantra. These values undergird my career as an individual, and sustain my relationship with people. Besides, these values that I uphold, I enjoy opportunities to meaningfully connect with people from diverse backgrounds and cultures. So feel free to connect with me.
+- ⚡ Fun fact: Community development, compassion, passion, gratitude, and deep listening are five core mantras that guide my life. These values not only shape my identity but also form the foundation of my career and the way I build and sustain relationships. Beyond upholding these principles, I genuinely enjoy opportunities to connect meaningfully with people from diverse backgrounds and cultures. So, feel free to reach out, I'd love to connect with you to speak the language of data and the language of mankind.
