@@ -2,7 +2,7 @@
 
 I’m a Data Analyst with a strong quantitative and engineering background, focused on turning raw data into clear insights that support business and operational decision-making.
 
-I recently graduated (November 2025) from a double Master’s program in Mathematical Engineering and Nanotechnology, which trained me to think rigorously about data, systems, and optimization — skills I now apply to analytics, reporting, and performance analysis.
+I recently graduated (November 2025) from a double Master’s program in Mathematical Engineering and Nanotechnology, which trained me to think rigorously about data, systems, and optimization skills I now apply to analytics, reporting, and performance analysis.
 
 🔍 What I work with
 
@@ -30,7 +30,7 @@ This mindset allows me to design clean, interpretable queries and analyses that 
 
 ⚙️ Beyond analytics
 
-I also have hands-on experience building process automation and internal tools using Microsoft 365 (Power Apps, Power Automate, SharePoint), helping teams reduce manual work and operational friction — an experience that sharpened my understanding of how data supports real workflows.
+I also have hands-on experience building process automation and internal tools using Microsoft 365 (Power Apps, Power Automate, SharePoint), helping teams reduce manual work and operational friction, an experience that sharpened my understanding of how data supports real workflows.
 
 🚀 What I’m looking for
 
