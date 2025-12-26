@@ -5,6 +5,7 @@ I’m a Data Analyst with a strong quantitative and engineering background, focu
 I recently graduated (November 2025) from a double Master’s program in Mathematical Engineering and Nanotechnology, which trained me to think rigorously about data, systems, and optimization skills I now apply to analytics, reporting, and performance analysis.
 
 🔍 What I work with
+Advanced Excel (VBA, Macros, Power Pivot, Power Query, INDEX AND MATCH, LOOKUPS), and creating dashboards that aid critical business decision-making.
 
 SQL for analytical querying, business metrics, cohort and time-based analysis
 
