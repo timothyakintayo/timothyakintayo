@@ -1,47 +1,38 @@
-👋 Hi, I’m Timothy Mayowa Akintayo
+👋 Hi, I'm Timothy Akintayo
 
-I’m a Data Analyst with a strong quantitative and engineering background, focused on turning raw data into clear insights that support business and operational decision-making.
+Data Analyst | Power BI · SQL · Python · Power Platform
 
-I recently graduated (November 2025) from a double Master’s program in Mathematical Engineering and Nanotechnology, which trained me to think rigorously about data, systems, and optimization skills I now apply to analytics, reporting, and performance analysis.
+I build data solutions and process automation tools that solve real business problems.
 
-🔍 What I work with
-Advanced Excel (VBA, Macros, Power Pivot, Power Query, INDEX AND MATCH, LOOKUPS), and creating dashboards that aid critical business decision-making.
+## What I Build
+📊 **Analytics & BI**: Dashboards (Power BI, Excel), KPI frameworks, business metrics
+🔍 **Data Pipelines**: SQL, Python, DuckDB for ETL and analytical workflows
+⚙️ **Process Automation**: Power Apps, Power Automate, SharePoint for eliminating manual work
 
-SQL for analytical querying, business metrics, cohort and time-based analysis
+## Technical Stack
+**Data & BI**: Power BI (DAX, star schema, RLS) · SQL (PostgreSQL, DuckDB, CTEs, window functions) · Excel (Power Query, Power Pivot)
 
-Python for data processing, automation, and exploratory analysis
+**Programming**: Python (pandas, NumPy, Docker) · Git · Linux
 
-Linux & Git for reproducible, production-ready workflows
+**Power Platform**: Power Apps (custom forms, mobile design) · Power Automate (approval workflows, conditional logic) · SharePoint (list design, permissions)
 
-Data modeling & analytics logic (granularity, ratios, trends, segmentation)
+**Analytics**: Statistical analysis · Data modeling · Cohort analysis · Time-series forecasting
 
-I have experience solving real-world analytics problems, using multi-CTE queries, window functions, time-series analysis, and business KPIs, with a strong emphasis on why a metric is calculated, not just how. I also have experience building data pipelines and automating data imports using Python, SQL and DuckDB aiding smooth flow of data and analysis.
+## Featured Projects
+📊 Healthcare Operations Analysis - Identified $300K savings in service operations using Power BI DAX analysis
 
-🧠 How I think about data
+🔄 Procurement Automation - Eliminated paper-based approvals using Power Apps/Automate, avoided $15K-50K ERP costs
 
-I approach analytics by first understanding:
+📍 NYC Service Optimization - Built production ELT pipeline processing 22K+ municipal requests (Python/SQL/DuckDB)
 
-the business question
+💰 Pay Equity Audit - Analyzed $312M payroll identifying compensation gaps with nested DAX
 
-the unit of analysis
+Each repository demonstrates problem-solving with clean code and documentation.
 
-and the decision the data should support
+🎓 **Education**
+* MSc Mathematical Engineering & Nanotechnology | Gdańsk University of Technology / University of L'Aquila | 2023-2025
+* BSc University of Lagos | 2016-2021
 
-This mindset allows me to design clean, interpretable queries and analyses that stakeholders can actually use.
 
-⚙️ Beyond analytics
-
-I also have hands-on experience building process automation and internal tools using Microsoft 365 (Power Apps, Power Automate, SharePoint), helping teams reduce manual work and operational friction, an experience that sharpened my understanding of how data supports real workflows.
-
-🚀 What I’m looking for
-
-I’m actively seeking Data Analyst / Analytics roles where I can:
-
-work closely with business or operations teams
-
-own analytical queries and reporting
-
-contribute to data-driven decision-making at scale
-
-📫 Let’s connect:
-👉 LinkedIn: https://www.linkedin.com/in/timothy-akintayo/
+📫 **Connect**
+[LinkedIn](https://linkedin.com/in/timothy-akintayo) · timothyakintayo@gmail.com · [Portfolio](https://timothyakintayo.github.io)
