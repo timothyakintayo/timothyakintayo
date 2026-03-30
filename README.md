@@ -1,6 +1,6 @@
 👋 Hi, I'm Timothy Akintayo
 
-Data Analyst | Power BI · SQL · Python · Advanced Excel · Power Platform
+Data Analyst | Power BI · SQL · Python · Advanced Excel · Power Platform · Cloud (Azure Analytics, Snowflake)
 
 I build data solutions and process automation tools that solve real business problems.
 
